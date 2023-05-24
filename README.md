@@ -1,2 +1,2 @@
-# demo-repo
+# Demo-repo
 testing CLI commands
